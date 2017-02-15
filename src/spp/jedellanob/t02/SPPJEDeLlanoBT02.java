@@ -7,7 +7,7 @@ package spp.jedellanob.t02;
 import java.util.Scanner;
 /**
  *
- * @author mac
+ * José Eduardo De Llano Barragán A01410712 IC
  */
 public class SPPJEDeLlanoBT02 {
 
